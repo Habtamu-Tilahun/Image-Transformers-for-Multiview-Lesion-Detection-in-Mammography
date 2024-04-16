@@ -13,3 +13,4 @@ This study aimed to investigate the benefits of using transformers for multi-vie
 - DETR - Multiview
 - Deformable DETR - Single view
 - Deformable DETR - Multiview
+- Faster R-CNN - Single view
