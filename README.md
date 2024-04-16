@@ -9,7 +9,7 @@ This study aimed to investigate the benefits of using transformers for multi-vie
 ## Contents
 - Preprocessing
 - Mammogram Registration
-- DETR Single-view
+- DETR - Single view
 - DETR - Multiview
-- Deformable DETR single-view
+- Deformable DETR - Single view
 - Deformable DETR - Multiview
